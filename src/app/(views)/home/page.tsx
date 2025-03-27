@@ -15,22 +15,6 @@ export default function Home() {
       </div>
 
       <div className="flex flex-col gap-3">
-        <div className="relative z-10 flex flex-col justify-center items-center text-center gap-4 text-white">
-          <div className=" bg-zinc-900/30 p-3 h-auto rounded-md leading-snug mx-5">
-            <h3 className=" text-lg md:2xl">
-              Precisando de um especialisata em
-            </h3>
-
-            <h3 className="text-yellow-400 font-semibold">
-              {" "}
-              DIREITO BANCARIO?{" "}
-            </h3>
-
-            <p className="font-normal text-md md:text-lg">
-              Descubra se você está pagando juros abusivos ou taxas indevidas.
-            </p>
-          </div>
-        </div>
 
         <div className="relative z-10 flex flex-col justify-center items-center text-center gap-4 text-white">
           <div className=" bg-zinc-900/30 p-3 h-auto rounded-md leading-snug mx-5">
@@ -49,22 +33,6 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="relative z-10 flex flex-col justify-center items-center text-center gap-4 text-white">
-          <div className=" bg-zinc-900/30 p-3 h-auto rounded-md leading-snug mx-5">
-            <h3 className=" text-lg md:2xl">
-              Precisando de um especialisata em
-            </h3>
-
-            <h3 className="text-yellow-400 font-semibold">
-              {" "}
-              DIREITO BANCARIO?{" "}
-            </h3>
-
-            <p className="font-normal text-md md:text-lg">
-              Descubra se você está pagando juros abusivos ou taxas indevidas.
-            </p>
-          </div>
-        </div>
       </div>
 
       <Zap />
